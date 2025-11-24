@@ -1,1 +1,14 @@
-{"aist-samples":["/1st sound.wav","/2nd sound.wav","/3rd sound.wav","/4th sound.wav","/5th sound.wav","/6th sound.wav","/7th sound.wav","/8th sound.wav","/9th sound.wav","/The way I are - 3 notes.wav","/The way I are.wav"],"_base":"http://localhost:5432"}
+{
+    "_base":"https://github.com/youwenshao/aist-samples/main/",
+    "twia": "the_way_I_are.wav",
+    "twia3": "the_way_I_are_3notes.wav",
+    "first": "1st.wav",
+    "second": "2nd.wav",
+    "third": "3rd.wav",
+    "fourth": "4th.wav",
+    "fifth": "5th.wav",
+    "sixth": "6th.wav",
+    "seventh": "7th.wav",
+    "eighth": "8th.wav",
+    "ninth": "9th.wav"
+}
