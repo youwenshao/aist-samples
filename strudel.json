@@ -1,7 +1,7 @@
 {
-    "_base":"https://raw.githubusercontent.com/youwenshao/aist-samples/main/",
+    "_base": "https://raw.githubusercontent.com/youwenshao/aist-samples/main/",
     "twia": "the_way_I_are.wav",
-    "twia3": "the_way_I_are_3notes.wav",
+    "twia3": "the_way_I_are_3notes.wav", 
     "first": "1st.wav",
     "second": "2nd.wav",
     "third": "3rd.wav",
@@ -11,4 +11,4 @@
     "seventh": "7th.wav",
     "eighth": "8th.wav",
     "ninth": "9th.wav"
-}
+  }
