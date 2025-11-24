@@ -1,4 +1,18 @@
 Strudel Sample Repository
+	
+aist-samples	
+0	"/1st sound.wav"
+1	"/2nd sound.wav"
+2	"/3rd sound.wav"
+3	"/4th sound.wav"
+4	"/5th sound.wav"
+5	"/6th sound.wav"
+6	"/7th sound.wav"
+7	"/8th sound.wav"
+8	"/9th sound.wav"
+9	"/The way I are - 3 notes.wav"
+10	"/The way I are.wav"
+_base	"http://localhost:5432"
 
 This repository contains audio samples for use with Strudel, a live coding environment for music.
 
