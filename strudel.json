@@ -1,1 +1,14 @@
-{"aist-samples":["/1st.wav","/2nd.wav","/3rd.wav","/4th.wav","/5th.wav","/6th.wav","/7th.wav","/8th.wav","/9th.wav","/the_way_I_are.wav","/the_way_I_are_3notes.wav"],"_base":"https://raw.githubusercontent.com/youwenshao/aist-samples/main"}
+{
+    "_base": "https://raw.githubusercontent.com/youwenshao/aist-samples/main",
+    "1st": "1st.wav",
+    "2nd": "2nd.wav", 
+    "3rd": "3rd.wav",
+    "4th": "4th.wav",
+    "5th": "5th.wav",
+    "6th": "6th.wav",
+    "7th": "7th.wav",
+    "8th": "8th.wav",
+    "9th": "9th.wav",
+    "the_way_I_are": "the_way_I_are.wav",
+    "the_way_I_are_3notes": "the_way_I_are_3notes.wav"
+  }
